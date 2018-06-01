@@ -1,0 +1,6 @@
+app: fly-tipe
+config:
+  tipe_org_secret_key:
+    fromSecret: tipe_org_secret_key
+  tipe_api_key:
+    fromSecret: tipe_api_key
